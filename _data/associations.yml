@@ -3,6 +3,7 @@
 
 - organization: Unicef
   role: Volunteer
+  grade: 100000
   year: 2016 &mdash; Present
   personal Grade: 1000
   url: http://connecthome.atlantaga.gov/
@@ -11,6 +12,7 @@
 
 - organization: freeCodeCamp
   role: Contributor
+  grade: 1000
   year: 2015 &mdash; Present
   friends: 0
   url: https://www.freecodecamp.org/
